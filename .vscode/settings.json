@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "aula6.C": "cpp",
+        "aula7.C": "cpp",
+        "1_COUT.C": "cpp",
+        "2_CIN.C": "cpp",
+        "3_ESCOPO_GLOBAL.C": "cpp",
+        "4_CLASSE.C": "cpp",
+        "5_IMPLEMENTANDO_CLASSE.C": "cpp",
+        "6_PUBLIC_PRIVATE.C": "cpp",
+        "7_PROTOTIPO_METODO.C": "cpp",
+        "8_INLINE.C": "cpp",
+        "9_CONSTRUTORA.C": "cpp",
+        "10_CONSTRUTORA_PARAMETROS_PADRAO.C": "cpp",
+        "11_SOBRECARGA_CONSTRUTORA.C": "cpp",
+        "12_DESTRUTORA.C": "cpp",
+        "13_CHAMADA_DESTRUTORA.C": "cpp",
+        "basicetl2.C": "cpp",
+        "basicETL.C": "cpp",
+        "backup.C": "cpp",
+        "3dlist.C": "cpp",
+        "main.C": "cpp",
+        "main copy.C": "cpp",
+        "exemple=2.C": "cpp",
+        "exemple-2.C": "cpp"
+    },
+    "editor.colorDecorators": true,
+    "editor.tabSize": 2
+}
